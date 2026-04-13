@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project is a console-based Library Management System developed using Java. It simulates basic library operations such as adding books, viewing available books, issuing books, and returning books.
+i have developed a project Library management system using Java. It simulates basic library operations such as adding books, viewing available books, issuing books, and returning books.
 
 The goal of this project is to understand core Java concepts like object-oriented programming, collections, and user interaction using a menu-driven approach.
 
@@ -64,7 +64,7 @@ java_project/
 
 ---
 
-## Future Improvements (Optional)
+## Future Improvements
 
 * Add user login system
 * Store data permanently using files or database
